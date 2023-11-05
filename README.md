@@ -42,9 +42,5 @@ problemas aplicando nuevas tecnologías y contribuyendo en la toma de decisiones
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Contacto
-- LinkedIn: [in/oliver-castillot](https://www.linkedin.com/in/oliver-castillot/)
-- Correo: <olcastillot@gmail.com>
-
 <!-- ## Estadísticas de GitHub
 [![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=olcastillot&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
